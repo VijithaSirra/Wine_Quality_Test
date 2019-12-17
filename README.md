@@ -34,7 +34,7 @@ Input variables (based on physicochemical tests):
 
 12 - quality (score between 0 and 10)
 
-#bash
+.. code-block:: bash
 Relevant Papers:
 
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. 
