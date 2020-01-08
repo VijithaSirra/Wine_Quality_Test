@@ -4,12 +4,11 @@
 </p>
 
 
-This is one of the most popular dataset. I performed both regression and classification tasks on this data. It will test our understanding in different fields – outlier detection, feature selection, and unbalanced data. There are 4898 rows and 12 columns in this dataset.
+#### This is one of the most popular dataset. I performed both regression and classification tasks on this data. It will test our understanding in different fields – outlier detection, feature selection, and unbalanced data. There are 4898 rows and 12 columns in this dataset.
 
-Attribute Information:
+### Attribute Information:
  
-
-### Input variables (based on physicochemical tests): 
+#### Input variables (based on physicochemical tests): 
 
 - fixed acidity 
 
