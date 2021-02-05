@@ -1,4 +1,4 @@
-# <div align="center"> wine Quality Test </div>
+# <div align="center"> Wine Quality Test </div>
 <p align="center">
   <img src="image.jpg">
 </p>
